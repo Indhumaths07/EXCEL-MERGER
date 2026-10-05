@@ -1,0 +1,6 @@
+{
+  "name": "SheetMerge Pro - Smart 2-File Consolidator",
+  "description": "Merge two spreadsheet or tabular files into a single unified sheet with consistent typography, number formatting, column alignment, and instant export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
